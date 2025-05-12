@@ -4,5 +4,5 @@ sources
 # Output binaries
 *.exe
 
-# Logs
-logs
+tangorpro*
+extracted
